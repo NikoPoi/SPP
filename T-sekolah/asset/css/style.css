@@ -1,0 +1,7 @@
+.main_header {
+    background-image: url(../images/main_bg.png);
+    background-size: 716px;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 85vh;
+}
